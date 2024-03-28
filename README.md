@@ -2,9 +2,9 @@
 
 ## Files
 
-1. **`tensor.py`**: This file contains the code for building a machine learning model using TensorFlow, Keras, and Scikit-learn. The model is trained to detect ripe tomatoes and is saved as `tomato_model.h5`.
+1. **`tensor.py`**: File ini berisi kode untuk membuat model pembelajaran mesin menggunakan TensorFlow, Keras, dan Scikit-learn. Model dilatih untuk mendeteksi tomat matang dan disimpan sebagai `tomato_model.keras`.
 
-2. **`demo1.py`**: The real-time prediction demo file. It utilizes computer vision techniques to detect and predict ripe tomatoes using the pre-trained machine learning model (`tomato_model.h5`).
+2. **`demo1.py`**: File demo prediksi real-time. Ini menggunakan teknik visi komputer untuk mendeteksi dan memprediksi tomat matang menggunakan model pembelajaran mesin yang telah dilatih sebelumnya (`tomato_model.h5`).
 
 ## Technologies Used
 
